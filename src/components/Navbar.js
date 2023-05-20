@@ -17,7 +17,7 @@ const Navbar = () => {
 
         <PageLinks parentClass="nav-links" itemClass="nav-link" />
 
-        <SocialLinks />
+        <SocialLinks parentClass="nav-links" itemClass="nav-link" />
       </div>
     </nav>
   );
