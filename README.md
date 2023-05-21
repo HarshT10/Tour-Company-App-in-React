@@ -22,7 +22,7 @@
 
 ## How much did it take to build this Project?
 
-- It took me around a week to make this project.
+- It took me around an hour to make this project.
 
 ---
 
